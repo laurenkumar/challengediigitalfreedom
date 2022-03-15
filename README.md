@@ -1,4 +1,4 @@
-# challengediigitalfreedom
+# challengedigitalfreedom
 
 Webpage made to answer the Gitcoin Challenge (https://gitcoin.co/issue/fairdatasociety/wam/10/100027839)
 
